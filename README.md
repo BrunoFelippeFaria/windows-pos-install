@@ -1,11 +1,11 @@
-#meu script de pós instalção do windows.
+# meu script de pós instalção do windows.
 
-##Requisitos:
+## Requisitos:
 
 - Windows 10 ou superior
 - Winget instalado
 
-##Como usar
+## Como usar
 
 Apenas execute o script como admin, e deixe-o fazer todo o trabalho!
 
